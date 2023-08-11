@@ -1,0 +1,275 @@
+
+<!DOCTYPE html>a
+<html lang="es">
+
+<head>
+
+    <meta charset="utf">
+    <title> pagina 2 </title>
+
+</head>
+
+<body>
+    <div id="agupar">
+        <header id="cabecera">
+            <h1>¿Que es el universo?</h1>
+            <p> El universo lo es todo, define la NASA. “Incluye el espacio y toda su materia y energía. Incluso abarca
+                el tiempo mismo y, por supuesto, te incluye a ti”.</p>
+
+            <link rel="stylesheet" href="estilos/style.css">
+        </header>
+
+        <nav class="menu">
+
+            <ul><li> <button> opcion 1 </button> </li>
+            <li> <button> opcion 2 </button> </li>
+            <li> <button> opcion 3 </button> </li>
+            <li> <button> opcion 4 </button> </li>
+            </ul>
+            
+            </nav>
+            
+            <section id="secciona">
+
+            <article>
+                <h2> ¿Quiénes forman parte del universo? </h2>
+                <p> El planeta Tierra y la Luna, al igual que el resto de los planetas del sistema solar y de sus
+                    satélites, forman parte del universo. Asimismo, también lo integran los asteroides, los cometas, las
+                    estrellas y los exoplanetas (aquellos que están fuera del sistema solar).
+
+                    Además, los agujeros negros, la Via Láctea y los miles de millones de galaxias “y todas las demás
+                    cosas que los astrónomos ni siquiera pueden observar son parte del universo”.
+
+                    De acuerdo a la agencia espacial estadounidense, sin importar donde estén ubicadas, todas las
+                    personas se encuentran en él, ya que la Tierra es parte integrante.</p>
+                <figure>
+
+                    <img src="imgenes/espacio1.jpeg" width="400" height="200">
+                    <figcaption>
+
+                        imagen del articulo 1.1
+
+                    </figcaption>
+
+
+                </figure>
+
+
+            </article>
+
+
+
+        </section>
+
+        <section>
+            <article>
+                <h2> ¿Cuál es la edad del universo? </h2>
+
+                <p> Se estima que el universo tiene unos 13 800 millones de años. Mientras que el sistema solar tiene
+                    4600 millones
+                    de años, la vida en la Tierra ha existido durante, aproximadamente, 3800 millones de años, y los
+                    humanos han
+                    existido solo unos pocos cientos de miles de años. “En otras palabras, el universo ha existido
+                    aproximadamente
+                    56 000 veces más que nuestra especie”, reflexiona la NASA.
+
+                    La comprensión de qué es el universo, cómo funciona y cuán vasto es se ha transformado a lo largo de
+                    los siglos.
+                    En el pasado, las personas se basaban en los mitos para explicarlo.
+
+                    Posteriormente, los humanos comenzaron a aplicar las matemáticas, la escritura y nuevos principios
+                    de
+                    investigación a la búsqueda del conocimiento. Esos principios se refinaron con el tiempo al igual
+                    que las
+                    herramientas científicas y, eventualmente, revelaron pistas sobre la naturaleza del universo.
+
+                    “Con la tecnología y el conocimiento en constante avance, y sin escasez de imaginación, los seres
+                    humanos
+                    continúan poniendo al descubierto los secretos del cosmos”, dice la NASA. Sin embargo, la mayor
+                    parte del
+                    universo permanece desconocida.</p>
+                <figure>
+
+                    <img src="imgenes/ttt.jpeg" width="400" height="200">
+                    <figcaption>
+
+                        imagen 1.2
+
+                    </figcaption>
+
+
+                </figure>
+
+
+            </article>
+            <section>
+
+                <section>
+                    <article>
+                        <h2> ¿Cuánto mide el universo?  </h2>
+
+                        <p> en la actualidad estimamos que el universo observable mide 93.000 millones de años luz. La
+                            investigación se
+                            basa en la observación de las galaxias más lejanas y en lo que conocemos como radiación de
+                            fondo de
+                            microondas (el destello del Big Bang al que me refería antes), es decir, en captar la luz de
+                            los objetos que
+                            nos llega de más lejos. Pero para hacer estas medidas también necesitamos usar otros objetos
+                            más cercanos
+                            porque tenemos que construir un sistema que vaya teniendo calibraciones sucesivas a
+                            diferentes escalas. Se
+                            trata de conocer poco a poco y cada vez mejor el universo, empezando por nuestra vecindad y
+                            avanzando hacia
+                            objetos cada vez más lejanos y más tenues.</p>
+                        <figure>
+
+                            <img src="imgenes/jssjd.jpg" width="400" height="200">
+                            <figcaption>
+
+                                imagen 1.3
+
+                            </figcaption>
+
+
+                        </figure>
+
+
+                    </article>
+
+
+
+                    <section>
+                        <article>
+                            <h2> ¿Cuantas galaxias exixten? </h2>
+
+                            <p> Se estima que el universo tiene unos 13 800 millones de años. Mientras que el sistema
+                                solar tiene 4600 millones
+                                de años, la vida en la Tierra ha existido durante, aproximadamente, 3800 millones de
+                                años, y los humanos han
+                                existido solo unos pocos cientos de miles de años. “En otras palabras, el universo ha
+                                existido aproximadamente
+                                56 000 veces más que nuestra especie”, reflexiona la NASA.
+
+                                La comprensión de qué es el universo, cómo funciona y cuán vasto es se ha transformado a
+                                lo largo de los siglos.
+                                En el pasado, las personas se basaban en los mitos para explicarlo.
+
+                                Posteriormente, los humanos comenzaron a aplicar las matemáticas, la escritura y nuevos
+                                principios de
+                                investigación a la búsqueda del conocimiento. Esos principios se refinaron con el tiempo
+                                al igual que las
+                                herramientas científicas y, eventualmente, revelaron pistas sobre la naturaleza del
+                                universo.
+
+                                “Con la tecnología y el conocimiento en constante avance, y sin escasez de imaginación,
+                                los seres humanos
+                                continúan poniendo al descubierto los secretos del cosmos”, dice la NASA. Sin embargo,
+                                la mayor parte del
+                                universo permanece desconocida.</p>
+                            <figure>
+
+                                <img src="imgenes/edad.jpeg" width="400" height="200">
+                                <figcaption>
+
+                                    imagen 1.4
+
+                                </figcaption>
+
+
+                            </figure>
+
+
+                        </article>
+
+
+
+
+                        <section>
+                            <article>
+                                <h2> ¿Que es una galaxia? </h2>
+
+                                <p> Una galaxia es una estructura astronómica que agrupa conjuntos de estrellas (en sus
+                                    respectivos sistemas solares) y materia interestelar como gases, campos de
+                                    asteroides, etc., en un mismo sistema astronómico más o menos definido. Es decir,
+                                    que la galaxia es un conjunto de estrellas y sistemas planetarios que orbitan en
+                                    torno a un centro o eje definido.
+
+
+
+
+                                    Nuestro sistema planetario forma parte de una galaxia que llamamos “Vía láctea”.
+                                    Está ubicado en una de sus regiones exteriores y alejadas del centro.
+
+                                    Su nombre proviene de la Antigua Cultura Griega, ya que los observadores del cielo
+                                    nocturno en aquel entonces supusieron que esa enorme mancha blanca que surca el
+                                    firmamento eran restos de la leche materna derramada por la diosa Hera cuando
+                                    amamantaba al mítico Heracles (Hércules).
+
+                                    Las galaxias son estructuras inmensas, como se comprenderá, que varían enormemente
+                                    en forma, tamaño y composición, pero que están entre los objetos más brillantes
+                                    observables con ayuda de telescopios especializados.
+
+                                    Se estima que las galaxias están compuestas en un 90% de materia oscura, aunque no
+                                    se comprobó la existencia de esta última. Aunque poseen formas distintas de
+                                    organización, en su gran mayoría las galaxias son discos planos de materia en
+                                    movimiento en el espacio.
+
+                                    Galileo Galilei descubrió en 1610 que la Vía láctea está hecha de millares de
+                                    pequeñas estrellas. Ese fue un paso importantísimo en la comprensión humana de las
+                                    estructuras celestes, especialmente las más grandes que nuestro Sistema Solar.
+
+
+
+                                    </p>
+                                <figure>
+
+                                    <img src="imgenes/galaxia.jpeg" width="400" height="200">
+                                    <figcaption>
+
+                                        imagen 1.5
+
+                                    </figcaption>
+
+
+                                </figure>
+
+
+                            </article>
+
+
+
+
+
+                        </section>
+
+
+
+                        <aside id="columna">
+
+                            <h2>   Datos curiosos</h2>
+
+
+                            <blockquote> - ¿Cuántos años tiene el Universo?  </blockquote>
+
+                            <p>   Los científicos creen que el universo comenzó hace entre 13 y 14 mil millones de años con la explosión masiva llamada Big Bang.   </p>
+
+                            <blockquote> - ¿Cuántas estrellas hay en el Universo?  </blockquote>
+
+                            <p>    Hay alrededor de 10 mil millones de galaxias en el universo observable. El número de estrellas en una galaxia varía, pero suponiendo que un promedio de 100 mil millones de estrellas por galaxia significa que hay alrededor de 1.000.000.000.000.000.000.000 (eso es mil millones de billones) de estrellas en el universo observable.         </p>
+
+                            <blockquote> - ¿Qué es el Big Bang? </blockquote>
+
+                            <p>    La mayoría de astrónomos creen que el universo comenzó con el Big Bang hace unos 14 mil millones de años. En ese momento, todo el Universo estaba dentro de una burbuja que era mil veces más pequeña que un alfiler. Estaba muy caliente y tenía mucha densidad.     </p>
+
+                            
+                        </aside>
+
+                        <footer id="pie"> derechos reservados &copy; caleb 2023 </footer>
+    </div>
+</body>
+
+
+
+
+</html>
+
